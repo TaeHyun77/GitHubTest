@@ -1,5 +1,5 @@
 package com.example.GitHupTest
 
 class BranchA {
-    fun a() = "branchA에서 작성"
+    fun a() = "branchC에서 수정"
 }
